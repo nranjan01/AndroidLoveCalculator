@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LoveCalculator by NR</string>
+    <string name="click_to_see_your_love_percentage">Click to See Your Love Percentage</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="enter_your_partner_s_name">Enter Your Partner\'s Name</string>
+</resources>
